@@ -54,15 +54,13 @@ let Brian = new SuperAdmin("Brian@perscholas.org", "bribri123", "Brian", "McRae"
 // Chase.isAwesome = true;
 // Chase.addProperty("isAwesome", true)
 
-console.log(Brian);
+console.dir(Brian);
+
+console.dir(Object)
 Brian.changePassword()
 // Chase.makeUserIntoAdmin(Tri, 1)
 
 console.log(Tri);
-
-
-
-
 
 
 
